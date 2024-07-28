@@ -1,2 +1,3 @@
 # check-opacity
-Check semi-opaque pixels in an image
+
+检查图片中的半透明像素
